@@ -1,4 +1,4 @@
-# Face Recognition CNN Model
+# Age-and-Gender-detection
 👋 Welcome to my face recognition CNN model project! This project uses a pre-trained CNN model to predict the age and gender of faces based on face data that includes age, gender, and ethnicity.
 
 # Dataset
