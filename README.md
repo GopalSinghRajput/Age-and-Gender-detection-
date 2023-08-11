@@ -70,7 +70,8 @@ Non-trainable params: 384
 ~~~
 
 # Results
-The models achieved an accuracy of 95% on the test set for age prediction and 90% for gender prediction. 
+The models achieved an silhouette_score
+of 0.436. 
 
 # Acknowledgements
 This project was inspired by [here](https://www.kaggle.com/code/gcdatkin/face-image-classification-with-cnns)
