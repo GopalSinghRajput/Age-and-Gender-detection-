@@ -1,5 +1,5 @@
 # Age-and-Gender-detection
-👋 Welcome to my face recognition CNN model project! This project uses a pre-trained CNN model to predict the age and gender of faces based on face data that includes age, gender, and ethnicity.
+👋 Welcome to my face recognition CNN model project! This project uses a pre-trained CNN model to predict the age and gender of faces based on face data that includes age, gender.
 
 # Dataset
 The dataset used for this project is available [here](https://www.kaggle.com/datasets/nipunarora8/age-gender-and-ethnicity-face-data-csv)
